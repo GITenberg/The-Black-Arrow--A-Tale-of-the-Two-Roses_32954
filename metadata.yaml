@@ -1,0 +1,49 @@
+_repo: The-Black-Arrow--A-Tale-of-the-Two-Roses_32954
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, Newell Convers
+    - Wyeth, N.C.
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 32954-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: Richard Shelton is a young knight during the Wars of the Roses. We see
+  him ascend and rescue his lady love. He then seeks revenge against his father's
+  murderer, but when the evidence points towards his guardian he is forced to go into
+  hiding. He joins the band of outlaws known as the Black Arrow.
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'War stories'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PR'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction'
+title: 'The Black Arrow: A Tale of the Two Roses'
+url: http://www.gutenberg.org/ebooks/32954
